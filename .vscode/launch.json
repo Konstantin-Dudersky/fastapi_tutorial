@@ -5,7 +5,7 @@
             "name": "FastAPI",
             "type": "python",
             "request": "launch",
-            "module": "src.03_query_parameters.main"
+            "module": "src.04_request_body.main"
         }
     ]
 }
